@@ -3,7 +3,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 
-- Solution URL: [](#)
+- Solution URL: [](https://www.frontendmentor.io/solutions/a-responsive-qr-code-card-built-with-html-and-css-I-4ASZPWzZ)
 - Live Site URL: [](https://taophycc.github.io/QR-code-card/)
 
 ## My process
