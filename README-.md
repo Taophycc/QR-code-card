@@ -3,8 +3,8 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [](#)
+- Live Site URL: [](https://taophycc.github.io/QR-code-card/)
 
 ## My process
 
